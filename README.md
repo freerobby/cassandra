@@ -9,6 +9,7 @@ REQUIREMENTS
 Cookbooks
 ----
 
+* apt
 * java
 
 Platform
